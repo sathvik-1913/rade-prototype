@@ -1,0 +1,104 @@
+.image {
+  width: 7rem;
+  cursor: pointer;
+}
+
+.navbar {
+  background-color: rgb(77, 71, 71);
+  width: 30rem;
+  height: 2rem;
+  margin-left: 7rem;
+  margin-top: 1rem;
+  /* Changed from -5rem to prevent layout issues */
+  border-radius: 1rem;
+  display: flex;
+  align-items: center;
+  padding: 0 1rem;
+  box-sizing: border-box;
+  margin-top: -5rem;
+}
+
+.home {
+  padding: 0 1rem;
+  color: white;
+  cursor: pointer;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border-radius: 1rem;
+  transition: all 0.3s ease;
+}
+
+.home:hover {
+  background-color: rgb(210, 85, 255);
+}
+
+.orders {
+  padding: 0 1rem;
+  margin-left: 1rem;
+  /* Reduced from 5rem */
+  color: white;
+  cursor: pointer;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border-radius: 1rem;
+  transition: all 0.3s ease;
+}
+
+.orders:hover {
+  background-color: rgb(210, 85, 255);
+}
+
+.aboutus {
+  padding: 0 1rem;
+  margin-left: 1rem;
+  /* Reduced from 5rem */
+  color: white;
+  cursor: pointer;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border-radius: 1rem;
+  transition: all 0.3s ease;
+}
+
+.aboutus:hover {
+  background-color: rgb(210, 85, 255);
+}
+
+.reachus {
+  padding: 0 1rem;
+  margin-left: rem;
+  /* Reduced from 5rem */
+  color: white;
+  cursor: pointer;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border-radius: 1rem;
+  transition: all 0.3s ease;
+}
+
+.reachus:hover {
+  background-color: rgb(210, 85, 255);
+}
+
+.rateus {
+  padding: 0 1rem;
+  margin-left: rem;
+  /* Reduced from 5rem */
+  color: white;
+  cursor: pointer;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border-radius: 1rem;
+  transition: all 0.3s ease;
+
+
+}
+
+.rateus:hover {
+  background-color: rgb(210, 85, 255);
+}
